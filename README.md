@@ -23,7 +23,7 @@ You can download the entire repository as a ZIP file or access individual files 
 
 Click on the "Code" button above and select "Download ZIP" to get the entire repository in a ZIP file.
 
-The template is hosted here: [Hey Holidays](https://likith-sg.github.io/HeyHolidays/)
+The template is hosted here: [Hey Holidays](https://bestorbust.github.io/HeyHolidays/)
 
 ## Fork the Repository
 
