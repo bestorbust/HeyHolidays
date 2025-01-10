@@ -40,4 +40,4 @@ Happy coding!
 To clone the repository to your local environment, use the following command:
 
 ```bash
-git clone https://github.com/likith-sg/HeyHolidays.git
+git clone https://github.com/bestorbust/HeyHolidays.git
